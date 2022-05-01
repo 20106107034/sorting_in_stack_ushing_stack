@@ -1,3 +1,4 @@
+//this programe for sorting applay in stack which is not proparly work in visual stdio but work on online sorce
 
 #include <stdio.h>
 #include <stdlib.h>
